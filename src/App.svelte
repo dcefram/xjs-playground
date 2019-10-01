@@ -1,6 +1,6 @@
 <script>
-  import Xjs from "xjs";
-  import ItemProps from "xjs/dist/props/item-props";
+  import Xjs from "xjs-framework";
+  import ItemProps from "xjs-framework/dist/props/item-props";
   export let name;
 
   const xjs = new Xjs();
