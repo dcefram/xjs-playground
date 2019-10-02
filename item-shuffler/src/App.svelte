@@ -50,7 +50,7 @@
   }
 </style>
 
-<h1>XJS 3.0 Test App</h1>
+<h1>XJS 3.0 Playground</h1>
 
 <h4>This test app can shuffle items in the current scene!</h4>
 
